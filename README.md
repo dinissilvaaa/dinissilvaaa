@@ -32,6 +32,4 @@
   
 </div>
 
-<img src="https://dummyimage.com/1000x4/FFFFFF/FFFFFF" width="100%" height="4px" alt="linha branca" style="margin: 20px 0;" />
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&waveColor=FFFFFF&height=120&section=footer"/>
