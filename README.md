@@ -21,8 +21,7 @@
 ---
 
 <div align="center" style="margin-top: 30px;">
-  
-## 🧰 Technologies & Tools I Learned at School
+  <h2>🧰 Technologies & Tools I Learned at School</h2>
 
 <br>
 
