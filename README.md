@@ -1,3 +1,16 @@
+<style>
+  img.line-white {
+    filter: invert(0);
+  }
+
+  @media (prefers-color-scheme: light) {
+    img.line-white {
+      filter: invert(1);
+    }
+  }
+</style>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&waveColor=FFFFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Dinis+Silva+👋;An+18+Year-Old+Student+from+Portugal;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
