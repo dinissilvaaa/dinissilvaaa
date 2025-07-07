@@ -36,7 +36,7 @@
 
   <br><br>
 
-  🎓 <strong>Developed a strong foundation in web technologies (HTML, CSS, JavaScript, PHP) and software development (C++, Python) during my academic journey. I also gained hands-on experience with Visual Studio and Arduino.</strong> 🛠️
+  🎓 <strong>Developed a strong foundation in web technologies and software development during my academic journey. I also gained hands-on experience with Visual Studio and Arduino.</strong> 🛠️
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&waveColor=FFFFFF&height=120&section=footer"/>
