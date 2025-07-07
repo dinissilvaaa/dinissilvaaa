@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&waveColor=FFFFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Dinis+Silva+👋;An+18+Year-Old+Student+from+Portugal;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
 
@@ -39,4 +39,4 @@
   🎓 <strong>Developed a strong foundation in web technologies (HTML, CSS, JavaScript, PHP) and software development (C++, Python) during my academic journey. I also gained hands-on experience with Visual Studio and Arduino.</strong> 🛠️
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&waveColor=FFFFFF&height=120&section=footer"/>
