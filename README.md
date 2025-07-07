@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Dinis+Silva+👋;An+18+Year-Old+Student+from+Portugal;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
 
----
+<div style="width: 100%; height: 4px; background: linear-gradient(to right, #1E90FF, #00BFFF); margin: 20px 0;"></div>
 
 <div align="center">  
   <!-- ✅ GitHub Stats -->
@@ -10,7 +10,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinissilvaaa&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=0d1117" alt="Dinis Silva Top Languages" />
 </div>
 
----
+<div style="width: 100%; height: 4px; background: linear-gradient(to right, #1E90FF, #00BFFF); margin: 20px 0;"></div>
 
 <div align="center" style="margin-top: 20px;"> 
   <a href="mailto:dinisilva06@gmail.com">
@@ -18,7 +18,7 @@
   </a>
 </div>
 
----
+<div style="width: 100%; height: 4px; background: linear-gradient(to right, #1E90FF, #00BFFF); margin: 20px 0;"></div>
 
 <div align="center" style="margin-top: 30px;">
   <br>
