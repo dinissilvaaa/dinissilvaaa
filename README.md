@@ -23,25 +23,22 @@
 <div align="center" style="margin-top: 30px;">
   <h2>🧰 Technologies & Tools I Learned at School</h2>
 
-<br>
+  <br>
 
-<!-- Tech icons with spacing -->
-<img alt="HTML" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img alt="CSS" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img alt="JavaScript" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img alt="Java" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-<img alt="PHP" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img alt="C++" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img alt="Python" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-<img alt="Arduino" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img alt="VB.NET / Visual Studio" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <!-- Tech icons with spacing -->
+  <img alt="HTML" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="CSS" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="JavaScript" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="Java" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  <img alt="PHP" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img alt="C++" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+  <img alt="Python" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+  <img alt="Arduino" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img alt="VB.NET / Visual Studio" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
-<br><br>
+  <br><br>
 
-🎓 **Developed a strong foundation in web technologies (HTML, CSS, JavaScript, PHP) and software development (C++, Python) during my academic journey. I also gained hands-on experience with Visual Studio and Arduino.** 🛠️
-
+  🎓 <strong>Developed a strong foundation in web technologies (HTML, CSS, JavaScript, PHP) and software development (C++, Python) during my academic journey. I also gained hands-on experience with Visual Studio and Arduino.</strong> 🛠️
 </div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
