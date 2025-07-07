@@ -19,12 +19,7 @@
 </div>
 
 
-<div align="center" style="margin-top: 30px;">
-  <h2>🧰 Technologies & Tools I Learned at School</h2>
 
-  <br>
-
-  <!-- Tech icons with spacing -->
   <img alt="HTML" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img alt="JavaScript" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
