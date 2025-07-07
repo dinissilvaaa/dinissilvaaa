@@ -10,7 +10,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinissilvaaa&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FF91A4&bg_color=0d1117" alt="Dinis Silva Top Languages" />
 </div>
 
-<img src="https://dummyimage.com/1000x4/FFFFFF/FFFFFF" width="100%" height="4px" alt="linha branca" style="margin:20px 0;" />
+<img src="https://dummyimage.com/1000x4/FFFFFF/FFFFFF" width="100%" height="4px" alt="linha branca" style="margin:5px 0 10px 0;" />
 
 <div align="center" style="margin-top: 20px;">
   <br>
@@ -25,9 +25,11 @@
   <img alt="Python" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
   <img alt="Arduino" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img alt="VB.NET / Visual Studio" width="50px" style="margin-right: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  
   <img src="https://dummyimage.com/1000x4/FFFFFF/FFFFFF" width="100%" height="4px" alt="linha branca" style="margin:20px 0;" />
+  
   <br><br>
-
+  
   <strong>Developed a strong foundation in web technologies and software development during my academic journey. I also gained hands-on experience with Visual Studio and Arduino.</strong> 🛠️
 </div>
 
