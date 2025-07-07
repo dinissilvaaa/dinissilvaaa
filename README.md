@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Dinis+Silva+👋;An+18+Year-Old+Student+from+Portugal;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Dinis+Silva+👋;An+18+Year-Old+Student+from+Portugal;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
 
-<img src="https://dummyimage.com/1000x4/1E90FF/1E90FF" width="100%" height="4px" alt="linha azul" style="margin:20px 0;" />
+<img src="https://dummyimage.com/1000x4/FFFFFF/FFFFFF" width="100%" height="4px" alt="linha branca" style="margin:20px 0;" />
 
 <div align="center">  
   <!-- ✅ GitHub Stats -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dinissilvaaa&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Dinis Silva GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinissilvaaa&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=0d1117" alt="Dinis Silva Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dinissilvaaa&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Dinis Silva GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinissilvaaa&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FF91A4&bg_color=0d1117" alt="Dinis Silva Top Languages" />
 </div>
 
-<img src="https://dummyimage.com/1000x4/1E90FF/1E90FF" width="100%" height="4px" alt="linha azul" style="margin:20px 0;" />
+<img src="https://dummyimage.com/1000x4/FFFFFF/FFFFFF" width="100%" height="4px" alt="linha branca" style="margin:20px 0;" />
 
 <div align="center" style="margin-top: 20px;"> 
   <a href="mailto:dinisilva06@gmail.com">
@@ -18,7 +18,7 @@
   </a>
 </div>
 
-<img src="https://dummyimage.com/1000x4/1E90FF/1E90FF" width="100%" height="4px" alt="linha azul" style="margin:20px 0;" />
+<img src="https://dummyimage.com/1000x4/FFFFFF/FFFFFF" width="100%" height="4px" alt="linha branca" style="margin:20px 0;" />
 
 <div align="center" style="margin-top: 30px;">
   <br>
@@ -39,4 +39,4 @@
   🎓 <strong>Developed a strong foundation in web technologies (HTML, CSS, JavaScript, PHP) and software development (C++, Python) during my academic journey. I also gained hands-on experience with Visual Studio and Arduino.</strong> 🛠️
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
