@@ -12,14 +12,6 @@
 
 <img src="https://dummyimage.com/1000x4/FFFFFF/FFFFFF" width="100%" height="4px" alt="linha branca" style="margin:20px 0;" />
 
-<div align="center" style="margin-top: 20px;"> 
-  <a href="mailto:dinisilva06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge" />
-  </a>
-</div>
-
-<img src="https://dummyimage.com/1000x4/FFFFFF/FFFFFF" width="100%" height="4px" alt="linha branca" style="margin:20px 0;" />
-
 <div align="center" style="margin-top: 30px;">
   <br>
 
