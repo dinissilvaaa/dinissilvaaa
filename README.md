@@ -34,6 +34,8 @@
   <img alt="Arduino" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img alt="VB.NET / Visual Studio" width="50px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
+  <img src="https://dummyimage.com/1000x4/FFFFFF/FFFFFF" width="100%" height="4px" alt="linha branca" style="margin:20px 0;" />
+  
   <br><br>
 
   <strong>Developed a strong foundation in web technologies and software development during my academic journey. I also gained hands-on experience with Visual Studio and Arduino.</strong> 🛠️
