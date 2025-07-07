@@ -37,6 +37,6 @@
 
 <br><br><br><br>
 
-🎓<b>These languages and tools were a part of my educational curriculum, providing a foundational understanding of web development (HTML, CSS, JavaScript, PHP), software development (C++, Python), and IDEs like Visual Studio (VB.NET)</b>
+<b>🛠🎓Developed a solid foundation in web technologies (HTML, CSS, JavaScript, PHP) and programming languages (C++, Python) through academic projects, with experience using Visual Studio (VB.NET) 🛠🎓.</b>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
