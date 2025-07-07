@@ -18,7 +18,6 @@
   </a>
 </div>
 
----
 
 <div align="center" style="margin-top: 30px;">
   <h2>🧰 Technologies & Tools I Learned at School</h2>
