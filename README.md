@@ -8,12 +8,6 @@
 
 <img src="https://dummyimage.com/1000x4/FFFFFF/FFFFFF" width="100%" height="4px" alt="linha branca" style="margin: 20px 0;" /> 
 
-<div align="center">  
-  <!-- ✅ GitHub Stats -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dinissilvaaa&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Dinis Silva GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinissilvaaa&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FF91A4&bg_color=0d1117" alt="Dinis Silva Top Languages" />
-</div>
-
 <img src="https://dummyimage.com/1000x4/FFFFFF/FFFFFF" width="100%" height="4px" alt="linha branca" style="margin: 12px 0;" />  
 
 <div align="center" style="margin-top: 20px; line-height: 1.5;">
