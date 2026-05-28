@@ -1,25 +1,46 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&waveColor=FFFFFF&height=120&section=header" style="margin-bottom: 30px;" />
+<h2 align="center">Skills & Stats:</h2>
 
-<div style="margin: 0 0 25px 0; text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Dinis+Silva+👋;A+20+Year-Old+Student+from+Portugal;Welcome+To+My+GitHub+Profile" alt="Typing SVG" />
-  </a>
+<table align="center">
+  <tr align="center">
+    <td><h3>Frontend</h3></td>
+    <td><h3>Languages</h3></td>
+    <td><h3>Others</h3></td>
+  </tr>
+  <tr align="center">
+    <td valign="top" width="33%">
+      <a href="https://github.com/dinissilvaaa">
+        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,laravel&perline=4" /> 
+      </a>
+    </td>
+    <td valign="top" width="33%">
+      <a href="https://github.com/dinissilvaaa">
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,java,typescript&perline=4" /> 
+      </a>
+    </td>
+    <td valign="top" width="33%">
+      <a href="https://github.com/dinissilvaaa">
+        <img src="https://skillicons.dev/icons?i=vscode,linux,arduino,github,git,npm,vercel,figma&perline=4" /> 
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+    <a href="https://github.com/dinissilvaaa">
+        <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=dinissilvaaa&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+    </a> 
+</p>
+
+<p align="center">
+    <a href="https://github.com/dinissilvaaa"> 
+        <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=dinissilvaaa&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+    </a>  
+</p>
+
+<br>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=dinissilvaaa&style=for-the-badge&color=orange" alt=""/>
 </div>
-
-<div align="center" style="margin-top: 20px; line-height: 1.5;">
-  <!-- Ícones com margem direita consistente e vertical alinhada -->
-  <img alt="HTML" width="50px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS" width="50px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="JavaScript" width="50px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="Java" width="50px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-  <img alt="PHP" width="50px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img alt="C++" width="50px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-  <img alt="Python" width="50px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-  <img alt="Arduino" width="50px" style="margin-right: 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  <img alt="VB.NET / Visual Studio" width="50px" style="margin-right: 0; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-
-  <img src="https://dummyimage.com/1000x4/FFFFFF/FFFFFF" width="100%" height="4px" alt="linha branca" style="margin: 20px 0;" />
-  
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&waveColor=FFFFFF&height=120&section=footer"/>
